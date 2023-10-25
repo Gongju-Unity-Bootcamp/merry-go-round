@@ -4,6 +4,3 @@
 This is Merry-Go-Round team repository.
 
 Let's do team project!
-
-We want some comflict.
-LET'S FIGHT!!!!!!!
